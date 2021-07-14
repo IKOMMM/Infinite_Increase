@@ -17,7 +17,7 @@ public class FuelBarScript : MonoBehaviour
     {
         gasBar = GetComponent<Image>();
         playerHandler = FindObjectOfType<PlayerHandler>();
-        maxFuel = playerHandler.maxfuelAmount;
+        maxFuel = 7000f;
     }
 
     // Update is called once per frame

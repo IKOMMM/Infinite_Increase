@@ -14,6 +14,6 @@ public class TileHandler : MonoBehaviour
     private void OnTriggerExit(Collider other)
     {
         endlessTileSpawner.SpawnTile();
-        Destroy(gameObject, 15);
+        Destroy(gameObject, 45);
     }
 }
