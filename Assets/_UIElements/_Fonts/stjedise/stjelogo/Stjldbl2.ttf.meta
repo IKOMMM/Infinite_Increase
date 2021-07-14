@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7c50895e8623952409d28533f15e5893
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Star Jedi Logo DoubleLine2
+  fontNames:
+  - Star Jedi Logo DoubleLine2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24be1a7ab7d11814fb828356ac4b395b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

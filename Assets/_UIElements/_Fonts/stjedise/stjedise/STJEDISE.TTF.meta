@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9e41f4b285267e943a0c8850f2696327
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: StarJedi Special Edition
+  fontNames:
+  - StarJedi Special Edition
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 75c5efdbf43bacf4798bdecaee682db2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
