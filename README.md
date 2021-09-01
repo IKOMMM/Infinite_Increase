@@ -3,7 +3,7 @@ Endless Runner game in space environment.
 **[More About](https://ikommm.github.io/Portfolio/articles/Art_12_en.html)**
 
 One of a small projects created on the basis of the completed Gamedev.tv course
-**[Unity Mobile C# Developer Course](https://www.gamedev.tv/p/complete-c-unity-game-developer-3d-online-course-2020)**
+**[Complete C# Unity Game Developer 3D Online Course](https://www.gamedev.tv/p/complete-c-unity-game-developer-3d-online-course-2020)**
 
 Stable on: **Unity Engine 2020.3**
 ##
